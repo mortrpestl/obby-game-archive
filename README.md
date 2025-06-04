@@ -2,10 +2,12 @@
 
 Obbies in Roblox are parkour-based levels. In this obby, I added client-side based obstacles (e.g. moving platforms, spinners) through existing and new Lua scripts to make challenging obstacles. The game gets harder per stage, a gimmick used to create fast-paced platforming for people who love to those types of games (like me!) in Roblox.
 
+[Click here to watch the demo video](https://raw.githubusercontent.com/mortrpestl/obby-game-archive/main/image-assets/demo.mp4)
+
 ## Documentation
 
-<img src="https://raw.githubusercontent.com/mortrpestl/obby-game-archive/main/image-assets/overview.png">
-<img src="https://raw.githubusercontent.com/mortrpestl/obby-game-archive/main/image-assets/5.png">
+<p align="center"><img src="https://raw.githubusercontent.com/mortrpestl/obby-game-archive/main/image-assets/overview.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/mortrpestl/obby-game-archive/main/image-assets/5.png"></p>
 
 <video controls width="100%">
   <source src="https://raw.githubusercontent.com/mortrpestl/obby-game-archive/main/image-assets/demo.mp4" type="video/mp4">
@@ -13,7 +15,8 @@ Obbies in Roblox are parkour-based levels. In this obby, I added client-side bas
 </video>
 
 ## Other Assets
-<p float="left">
+### Badges
+<p float="center">
   <img src="https://raw.githubusercontent.com/mortrpestl/obby-game-archive/main/image-assets/badge1.png" width="22%" />
   <img src="https://raw.githubusercontent.com/mortrpestl/obby-game-archive/main/image-assets/badge2.png" width="22%" />
   <img src="https://raw.githubusercontent.com/mortrpestl/obby-game-archive/main/image-assets/badge3.png" width="22%" />
@@ -24,3 +27,5 @@ Obbies in Roblox are parkour-based levels. In this obby, I added client-side bas
 - Roblox Studio
 - Lua
 - JToH Kit 5.35
+
+All rights reserved @ mortrpestl
