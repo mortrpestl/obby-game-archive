@@ -2,6 +2,7 @@
 
 Obbies in Roblox are parkour-based levels. In this obby, I added client-side based obstacles (e.g. moving platforms, spinners) through existing and new Lua scripts to make challenging obstacles. The game gets harder per stage, a gimmick used to create fast-paced platforming for people who love to those types of games (like me!) in Roblox.
 
+[Play the game here](https://www.roblox.com/games/7567829112/Quickps-Stage-per-Difficulty-Chart)
 [Click here to watch the demo video](https://raw.githubusercontent.com/mortrpestl/obby-game-archive/main/image-assets/demo.mp4)
 
 ## Documentation
