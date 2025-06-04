@@ -24,8 +24,10 @@ Obbies in Roblox are parkour-based levels. In this obby, I added client-side bas
 </p>
 
 ## Software Used
-- Roblox Studio
-- Lua
-- JToH Kit 5.35
+## Links
+
+- [Roblox Studio](https://www.roblox.com/create)
+- [Lua](https://www.lua.org/)
+- [JToH Kit 5.35](https://www.roblox.com/library/8502000285/JToH-Kit-5-35)
 
 All rights reserved @ mortrpestl
